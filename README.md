@@ -1,1 +1,1 @@
-# portfolio
+# This file contains my code for fetching the CIFAR10 dataset and manipulating it. The first portion is the images portion where I convert PIL images to numpy arrays that consist of the image's width, height and colors. The next portion is where I transform PIL images to tensors using torchvision. The next portion consists of building a network and applying it by using Pytorch Functions. 
